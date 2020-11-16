@@ -1,0 +1,16 @@
+
+.Card{
+    width: 18rem;
+    height: 28rem;
+    margin: 16px 8px 8px 8px;
+    background: white;
+}
+
+.card-title{
+    padding-top: 5%;
+    margin: 0;
+}
+
+.btnCard{
+    margin-top: 18%;
+}
